@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/anthropic
  
 Anthropic is an advanced language model developed by AI researchers, the LLM provides a strong foundation for natural language understanding and generation, enabling innovative applications and advancements in AI language technology.
 
-The Kore.ai XO Platform allows you to connect to both the Anthropic models, **Claude** that can be used across Generative AI features in the platform.
+The Kore.ai XO Platform allows you to connect to the Anthropic model **Claude** that can be used across Generative AI features in the platform.
 
 </container>
 
@@ -28,7 +28,7 @@ To connect to Anthropic, Kore.ai uses API Key authentication. The end-user can u
 
 **Basic**
  
- Following details are required to enable the integration.
+Following details are required to enable the integration.
 
 1. Access to Anthropic's API keys is restricted to the users who are members of an organization that has previously registered and been approved for access to Anthropic's models. Registration is a prerequisite for API key usage. 
 2. To generate an API Key, visit this link.(https://docs.anthropic.com/claude/reference/getting-started-with-the-api)
